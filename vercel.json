@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://your-blogspot-site.blogspot.com",
+      "destination": "https://bit.ly/3AMhGdv",
       "permanent": true
     }
   ]
